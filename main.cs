@@ -15,7 +15,7 @@ class Program {
     // This is a comment
     Console.WriteLine("This program will run");
 
-    Console.WriteLine("Getting back into C#");
+    Console.WriteLine("Getting back into C# to build my game");
 
   }
   
